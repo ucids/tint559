@@ -14,7 +14,7 @@ const sendEmail = (e) =>{
    */
 
    // serviceID - templateID - #form - publicKey
-   emailjs.sendForm('service_0a7zjtq','template_14vddf4','#contact-form','eMxI5STyjVExhOaAW')
+   emailjs.sendForm('service_asd4kyj','template_14vddf4','#contact-form','eMxI5STyjVExhOaAW')
 
    .then(() =>{
       // Show sent message
